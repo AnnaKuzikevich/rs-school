@@ -16,8 +16,12 @@
 * VS Code
 * Figma/Photoshop
 * Tilda
-## Code example
-'
-## Languages
+## **Code example**
+```
+ const square = (num) => {
+    return num *num;
+  };
+```
+## **Languages**
 * Russian - native speaker.
 * English - A1 (A2 in process…)
