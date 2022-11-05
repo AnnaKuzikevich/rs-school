@@ -14,7 +14,8 @@
 * HTML/CSS/JavaScript Basics
 * Git
 * VS Code
-* Figma/Photoshop
+* Figma
+* Adobe Photoshop
 * Tilda
 ## **Code example**
 ```
